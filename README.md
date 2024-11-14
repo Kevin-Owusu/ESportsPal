@@ -18,4 +18,5 @@ A tool for managing sports teams and players. It allows coaches to track player 
 
 ## UML Class Diagram
 
+(![image](https://github.com/user-attachments/assets/3e841523-7e13-42d2-9b6d-7730c0fe57b4))
 
