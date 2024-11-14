@@ -1,4 +1,4 @@
-# Sports Pal
+# SportsPal
 
 A tool for managing sports teams and players. It allows coaches to track player attributes and manage teams efficiently.
 
